@@ -26,7 +26,8 @@ function copyWithContinuation (key) {
 [
   'async',
   'async_and_partial',
-  'copy_file'
+  'copy_file',
+  'stream'
 ].forEach(copyWithContinuation);
 
 [
