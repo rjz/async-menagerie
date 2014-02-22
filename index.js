@@ -27,7 +27,8 @@ function copyWithContinuation (key) {
   'async',
   'async_and_partial',
   'copy_file',
-  'stream'
+  'stream',
+  'highland-stream'
 ].forEach(copyWithContinuation);
 
 [

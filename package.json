@@ -6,10 +6,12 @@
   "scripts": {
     "start": "node index"
   },
+  "repository": "git@github.com:rjz/async-menagerie.git",
   "dependencies": {
     "async": "~0.2.9",
     "q": "~0.9.7",
-    "lodash": "~2.3.0"
+    "lodash": "~2.3.0",
+    "highland": "~1.13.3"
   },
   "author": "rjz <rj@rjzaworski.com>",
   "license": "WTFPL"
